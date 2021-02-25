@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:5.0
+FROM mcr.microsoft.com/dotnet/sdk:5.0-nanoserver-20H2
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 14.16.0
